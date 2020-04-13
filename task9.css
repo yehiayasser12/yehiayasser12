@@ -1,0 +1,407 @@
+body
+{
+    height: 3400px
+}
+.al
+{
+    color: green;
+    display: inline;
+}
+.brand
+{
+    font-size: 20px;
+    font-weight: bold;
+    display: inline
+}
+.right
+{
+    margin-right: 50px;
+    font-weight: bold;
+    font-size: 14px
+}
+.img1
+{
+    width:1280px;
+    height:500px;
+    margin-top: -19px;
+    margin-left: -70px;
+    z-index: 1
+}
+h1
+{
+    color:blue;
+    display: inline;
+    text-align: center;
+    z-index: 2;
+    position: absolute;top: 15%;left:30%;
+    font-size: 66px;
+    font-weight: bold
+    
+}
+.idea
+{
+    color: #00A5A5;
+    display:inline 
+}
+.btns
+{
+        position: absolute;top: 37%;left:45%;
+        z-index: 3;
+        border: 10px;
+        border-color: white;
+}
+h2
+{
+    position: absolute;top: 70% ;left:50%; 
+    color: #0c2e8a;
+    font-weight: 700;
+    font-size: 36px;
+    font-family: "Raleway", sans-serif;
+}
+.img2
+{
+    overflow: hidden;
+    width: 550px ;
+    height: 479px ;
+}
+.allp
+{
+        position: absolute;top: 90% ;left:50%;
+        font-size: 18px;
+}
+.facebook
+{
+    width: 25px;
+    height: 25px;
+}
+.twitter
+{
+    width: 25px;
+    height: 25px;
+}
+.instagram
+{
+    width: 25px;
+    height: 25px;
+}
+.googleplus
+{
+    width: 25px;
+    height: 25px;
+}
+.in
+{
+    width:25px;
+    height:25px;
+}
+.container2
+{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.p2
+{
+      margin-top: -90px;
+    font-size: 40px;
+    font-weight: bold;
+    color:blue
+}
+.p3
+{
+    font-size: 28px;
+    margin-top: -90px;
+    font-weight: bold;
+    color:#00A5A5
+}
+.img3
+{
+    width: 50px;
+    height:50px;
+    color:blue;
+}
+.description1
+{
+    display: inline
+}
+.img4
+{
+    width: 50px;
+    height:50px;
+    color:blue;
+}
+.description2
+{
+    display: inline
+}
+.img5
+{
+    width: 50px;
+    height:50px;
+    color:blue;
+}
+.description3
+{
+    display: inline
+}
+.img6
+{
+    width: 50px;
+    height:50px;
+    color:blue;
+}
+.description4
+{
+    display: inline
+}
+.img11
+{
+    width:248px ;
+    height: 186px ;
+    
+}
+.pp1
+{
+    position: absolute;top: 90% ;left:50%;
+}
+.las1
+{
+        width: 100%;
+        margin-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSztP4IOAvMEKlrD99Kb9Qcyhufb4RfNrmVsLTi4uu2U4lfWjf8&usqp=CAU)
+}
+.button1
+{
+    position: absolute;top:100%;left:45% ;
+    text-align: center;
+    size: 22px
+}
+.cta-title
+{
+    color: white;
+    float: left;
+    font-weight: bold;
+    
+}
+.cta-text
+{
+        color: white;
+    float: left;
+    display: block;
+}
+.ahmed
+{
+    width: 200px ;
+    height: 200px;
+        border-radius: 50%;
+position: absolute;top:250%;left:10% 
+}
+.it
+{
+    width: 200px ;
+    height: 200px;
+    border-radius: 50%;
+position: absolute;top:250%;left:45% 
+}
+.yehia
+{
+    width: 200px ;
+    height: 200px;
+        border-radius: 50%;
+position: absolute;top:250%;left:80% 
+}
+.p4
+{
+    margin-top: -30px;
+        font-size: 40px;
+    font-weight: bold;
+    color:blue
+}
+.uimg1
+{
+    position: absolute;top:272%;left:10% ;
+    width: 200px ;
+    height: 150px ;
+}
+.uimg2
+{
+    position: absolute;top:272%;left:45% ;
+    width: 200px ;
+    height: 150px ;
+}
+.uimg3
+{
+position: absolute;top:272%;left:80% ;
+    width: 200px ;
+    height: 150px ;
+}
+.pahmed
+{
+        position: absolute;top:275%;left:12% ;
+        z-index: 5;
+        font-size: 18px;
+        font-weight: bold
+}
+.pit
+{
+    position: absolute;top:275%;left:45% ;
+    z-index: 5 ;
+    font-size: 18px;
+        font-weight: bold
+}
+.pyehia
+{
+    position: absolute;top:275%;left:84% ;
+         z-index: 5 ;
+         font-size: 18px;
+        font-weight: bold
+}
+.facebook2
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:16% ;
+        z-index: 4
+}
+.twitter2
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:18% ;
+        z-index: 4
+}
+.instagram2
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:20% ;
+        z-index: 4
+}
+.googleplus2
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:22% ;
+        z-index: 4
+}
+.in2
+{
+    width:25px;
+    height:25px;
+        position: absolute;top:272%;left:24% ;
+        z-index: 4
+}
+
+
+.facebook3
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:51% ;
+        z-index: 4
+}
+.twitter3
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:53% ;
+        z-index: 4
+}
+.instagram3
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:55% ;
+        z-index: 4
+}
+.googleplus3
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:57% ;
+        z-index: 4
+}
+.in3
+{
+    width:25px;
+    height:25px;
+        position: absolute;top:272%;left:59% ;
+        z-index: 4
+}
+
+
+
+
+.facebook4
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:86% ;
+        z-index: 4
+}
+.twitter4
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:88% ;
+        z-index: 4
+}
+.instagram4
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:90% ;
+        z-index: 4
+}
+.googleplus4
+{
+    width: 25px;
+    height: 25px;
+        position: absolute;top:272%;left:92% ;
+        z-index: 4
+}
+.in4
+{
+    width:25px;
+    height:25px;
+        position: absolute;top:272%;left:94% ;
+        z-index: 4
+}
+.it1
+{
+      position: absolute;top:278%;left:16% ;
+    z-index: 6 ;
+         font-size: 16px;
+     font-weight:bold 
+}
+.it2
+{
+        position: absolute;top:278%;left:48%;
+     z-index: 6 ;
+     font-size: 16px;
+     font-weight:bold 
+}
+.it3
+{
+    position: absolute;top:278%;left:87% ;
+    z-index: 6;
+         font-size: 16px;
+     font-weight:bold 
+}
+.map
+{
+   margin-left: -150px;
+   margin-right: -150px;
+   position: absolute;left:18%;top: 290%
+}
+.place
+{
+    position: absolute;left:18%;top: 350% ;
+    float: left
+}
